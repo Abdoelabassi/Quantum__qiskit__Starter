@@ -1,10 +1,10 @@
 Introduction to Quantum computing using qiskit
 
-This is roadmap to qunatum machine learning using qiskit:
+This is a roadmap to qunatum machine learning using qiskit:
 
 <ul>
-	<li>basic quantum simulations</li>
-	<li>using quantum algorithms</li>
+	<li>Basic quantum simulations</li>
+	<li>Using quantum algorithms</li>
 	<li>Quantum Machine Learing</li>
 </ul>
 
