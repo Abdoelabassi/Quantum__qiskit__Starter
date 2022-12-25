@@ -10,6 +10,8 @@ This is a roadmap to qunatum machine learning using qiskit:
 
 This is not a project repo, but feel free to check the notebooks!!
 
-follow me on Twitter: <a href="https://twitter.com/abderrazaq_el" >aelabass~Mastodon:aelabassya@hep.social</a>
+follow me on Twitter: <a href="https://twitter.com/abderrazaq_el" >aelabass</a>
+
+Mastodon : <strong><em>aelabassya@hep.social</em></strong>
 
 <strong><i>#ibm_quantum #qiskit #python </i></strong>
